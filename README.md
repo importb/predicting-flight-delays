@@ -9,7 +9,7 @@ We picked the flight delays dataset because it was the most interesting dataset 
 
 The objective of this project is to explore machine learning algorithms in depth by developing a robust predictive model. The goal is to accurately determine the likelihood of a flight delay and estimate the expected duration of the delay based on various influencing factors.
 
-# Contents
+# Required Contents
 - **Data processing.ipynb**     (Preprocesses the data.)
 - **EDA.ipynb**                 (Data deep dive.)
 - **Machine_Learning.ipynb**    (Creating the models and testing them.)
